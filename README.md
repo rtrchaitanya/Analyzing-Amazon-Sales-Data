@@ -9,7 +9,6 @@ Sales Management Has Gained Importance To Meet Increasing Competition And The Ne
 
 ## Tools Used
 
-- Microsoft Excel
 - Microsoft Power BI
 
 
